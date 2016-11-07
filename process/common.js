@@ -7,7 +7,7 @@ $(document).ready(function(){
 		success: function(xml) {
 			$("head title").html(xml.title);
 			$(".header h1").html(xml.title);
-			$(".footer #write").html(xml.write);
+			$(".footer #writer").html(xml.writer);
 			$(".footer #date").html(xml.date);
 
 			$.each(xml.pc, function(i) {
