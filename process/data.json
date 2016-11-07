@@ -1,0 +1,361 @@
+{
+	"title":"project name",
+	"write":"dave.kim",
+	"date":"2016-11-17",
+	"pc": [
+		{
+			"depth1": "서브 가이드",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "00_sub_guide.html",
+			"state": "○",
+			"date": "2016-10-11"
+		},
+		{
+			"depth1": "투표",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "01_vote_main.html",
+			"state": "○",
+			"date": "2016-10-10"
+		},
+		{
+			"depth1": "",
+			"depth2": "투표 완료",
+			"depth3": "팝업 - 완료",
+			"html": "01_vote_main_popup.html",
+			"state": "○",
+			"date": "2016-10-21"
+		},
+		{
+			"depth1": "",
+			"depth2": "",
+			"depth3": "팝업 - 캡챠 ",
+			"html": "01_vote_main_popup2.html",
+			"state": "○",
+			"date": "2016-10-10"
+		},
+		{
+			"depth1": "",
+			"depth2": "투표 확인 ",
+			"depth3": " ",
+			"html": "01_vote_my_voting_state.html",
+			"state": "○",
+			"date": "2016-10-10"
+		},
+		{
+			"depth1": "",
+			"depth2": "",
+			"depth3": "팝업 - 투표 수정",
+			"html": "01_vote_my_voting_state_popup.html",
+			"state": "○",
+			"date": "2016-10-10"
+		},
+		{
+			"depth1": "현재 순위",
+			"depth2": "",
+			"depth3": " ",
+			"html": "02_vote_current_ranking.html",
+			"state": "○",
+			"date": "2016-10-12"
+		},
+		{
+			"depth1": "후보작 감상",
+			"depth2": "",
+			"depth3": " ",
+			"html": "03_nominees.html",
+			"state": "○",
+			"date": "2016-10-11"
+		},
+		{
+			"depth1": "포럼",
+			"depth2": "소개",
+			"depth3": " ",
+			"html": "04_forum_intro.html",
+			"state": "○",
+			"date": "2016-10-17"
+		},
+		{
+			"depth1": "",
+			"depth2": "연사",
+			"depth3": " ",
+			"html": "04_forum_orator.html",
+			"state": "○",
+			"date": "2016-10-17"
+		},
+		{
+			"depth1": "",
+			"depth2": "참가신청",
+			"depth3": " ",
+			"html": "04_forum_apply.html",
+			"state": "○",
+			"date": "2016-10-19"
+		},
+		{
+			"depth1": "소개",
+			"depth2": "마마",
+			"depth3": " ",
+			"html": "05_about_intro.html",
+			"state": "○",
+			"date": "2016-10-17"
+		},
+		{
+			"depth1": "",
+			"depth2": "심사",
+			"depth3": " ",
+			"html": "05_about_judge.html",
+			"state": "○",
+			"date": "2016-10-17"
+		},
+		{
+			"depth1": "영상 - 30day - Countdown",
+			"depth2": "",
+			"depth3": " ",
+			"html": "06_30daycountdown.html",
+			"state": "○",
+			"date": "2016-10-10"
+		},
+		{
+			"depth1": "스타 응원 이벤트",
+			"depth2": "",
+			"depth3": " ",
+			"html": "07_vote_event.html",
+			"state": "○",
+			"date": "2016-10-13"
+		},
+		{
+			"depth1": "",
+			"depth2": "팝업 - 명예의 전당",
+			"depth3": " ",
+			"html": "07_vote_event_hall_of_fame.html",
+			"state": "○",
+			"date": "2016-10-14"
+		},
+		{
+			"depth1": "",
+			"depth2": "",
+			"depth3": "팝업 - 이벤트 응모",
+			"html": "07_vote_event_popup.html",
+			"state": "○",
+			"date": "2016-10-13"
+		},
+		{
+			"depth1": "",
+			"depth2": "",
+			"depth3": "팝업 - SNS도움 요청",
+			"html": "07_vote_event_popup2.html",
+			"state": "○",
+			"date": "2016-10-13"
+		},
+		{
+			"depth1": "",
+			"depth2": "",
+			"depth3": "팝업 - 응모 전, 응모 후",
+			"html": "07_vote_event_popup3.html",
+			"state": "○",
+			"date": "2016-10-21"
+		},
+		{
+			"depth1": "공지사항",
+			"depth2": "목록",
+			"depth3": " ",
+			"html": "08_notice_list.html",
+			"state": "○",
+			"date": "2016-10-10"
+		},
+		{
+			"depth1": "",
+			"depth2": "상세",
+			"depth3": " ",
+			"html": "08_notice_view.html",
+			"state": "○",
+			"date": "2016-10-10"
+		},
+		{
+			"depth1": "스폰서",
+			"depth2": "",
+			"depth3": " ",
+			"html": "09_sponsors.html",
+			"state": "○",
+			"date": "2016-10-26"
+		}
+	],
+	"mobile": [
+		{
+			"depth1": "홈",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "home.html",
+			"state": "○",
+			"date": "2016.10.19"
+		},
+		{
+			"depth1": "투표",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "vote.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "",
+			"depth2": "투표 완료",
+			"depth3": " ",
+			"html": "vote_confirmation.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "",
+			"depth2": "투표 팝업",
+			"depth3": "수정",
+			"html": "vote_confirmation.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "",
+			"depth2": "투표 팝업",
+			"depth3": "완료",
+			"html": "vote_complete_popup.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "",
+			"depth2": "투표 팝업",
+			"depth3": "캡챠",
+			"html": "vote_capcha_popup.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "후보자",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "nominees.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "랭킹",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "ranking.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "영상",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "vod.html",
+			"state": "○",
+			"date": "2016.10.12"
+		},
+		{
+			"depth1": "소개",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "about.html",
+			"state": "○",
+			"date": "2016.10.13"
+		},
+		{
+			"depth1": "심사개요",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "judging.html",
+			"state": "○",
+			"date": "2016.10.13"
+		},
+		{
+			"depth1": "포럼",
+			"depth2": "소개",
+			"depth3": " ",
+			"html": "forum_about.html",
+			"state": "○",
+			"date": "2016.10.17"
+		},
+		{
+			"depth1": "",
+			"depth2": "연사",
+			"depth3": " ",
+			"html": "forum_speakers.html",
+			"state": "○",
+			"date": "2016.10.17"
+		},
+		{
+			"depth1": "",
+			"depth2": "참가신청",
+			"depth3": " ",
+			"html": "forum_registration.html",
+			"state": "○",
+			"date": "2016.10.14"
+		},
+		{
+			"depth1": "이벤트",
+			"depth2": " ",
+			"depth3": " ",
+			"html": "cheer.html",
+			"state": "○",
+			"date": "2016.10.13"
+		},
+		{
+			"depth1": "",
+			"depth2": "참여신청",
+			"depth3": " ",
+			"html": "cheer_join_form.html",
+			"state": "○",
+			"date": "2016.10.17"
+		},
+		{
+			"depth1": "",
+			"depth2": "명예의 전당 팝업",
+			"depth3": " ",
+			"html": "cheer_hall_of_fame_popup.html",
+			"state": "○",
+			"date": "2016.10.19"
+		},
+		{
+			"depth1": "",
+			"depth2": "참여 방법/혜택 팝업",
+			"depth3": " ",
+			"html": "cheer_take_part_popup.html",
+			"state": "○",
+			"date": "2016.10.19"
+		},
+		{
+			"depth1": "",
+			"depth2": "이벤트 팝업",
+			"depth3": "help",
+			"html": "cheer_help_popup.html",
+			"state": "○",
+			"date": "2016.10.19"
+		},
+		{
+			"depth1": "",
+			"depth2": "이벤트 팝업",
+			"depth3": "응모 전/후",
+			"html": "cheer_support_popup.html",
+			"state": "○",
+			"date": "2016.10.19"
+		},
+		{
+			"depth1": "스폰서2",
+			"depth2": "-",
+			"depth3": "-",
+			"html": "sponsor.html",
+			"state": "○",
+			"date": "2016.10.26"
+		},
+		{
+			"depth1": "기타",
+			"depth2": "가로화면 막기(모바일에서만 구동)",
+			"depth3": "-",
+			"html": "rotation_prohibition.html",
+			"state": "○",
+			"date": "2016.10.26"
+		}
+	]
+}
